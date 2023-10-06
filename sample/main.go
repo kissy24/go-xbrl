@@ -15,8 +15,16 @@ func main() {
 	}
 
 	// データのアクセス例:
-	fmt.Println("TagName:", xbrlData.XMLName)
-	fmt.Println("TagName:", xbrlData.Xlink)
-	fmt.Println("SchemaRef:", xbrlData.SchemaRef)
-	fmt.Println("Context:", xbrlData.Context)
+	fmt.Println("XMLName:", xbrlData.XMLName)
+	fmt.Println("Xlink:", xbrlData.Xlink)
+	fmt.Println("JpcrpCor:", xbrlData.JpcrpCor)
+	fmt.Println("Link:", xbrlData.Link)
+	fmt.Println("Xbrldi:", xbrlData.Xbrldi)
+	fmt.Println("Xbrli:", xbrlData.Xbrli)
+	fmt.Println("Xsi:", xbrlData.Xsi)
+
+	fmt.Println("SchemaRef HRef:", xbrlData.SchemaRef.HRef)
+	fmt.Println("SchemaRef Type:", xbrlData.SchemaRef.Type)
+
+	fmt.Println("Context Identifier:", xbrlData.Context.Entity.Identifier.Scheme)
 }
