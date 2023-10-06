@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:jpcrp_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2022-11-01/jpcrp_cor"
+  xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldi="http://xbrl.org/2006/xbrldi"
+  xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:schemaRef xlink:href="jpaud-aai-cc-001_E05663-000_2023-06-30_01_2023-09-25.xsd"
+    xlink:type="simple" />
+  <xbrli:context id="FilingDateInstant">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E05663-000</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2023-09-25</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="FilingDateInstant_Row1Member">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E05663-000</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2023-09-25</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="jpcrp_cor:SequentialNumbersAxis">jpcrp_cor:Row1Member</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <jpcrp_cor:IndependentAuditorsReportConsolidatedTextBlock contextRef="FilingDateInstant">&lt;p
+    class="smt_head6"
+    style="orphans:0;widows:0;text-align:center;font-size:12pt;"&gt;独立監査人の監査報告書及び内部統制監査報告書&lt;/p&gt;
+    &lt;div class="tbld"
+    style="text-align:center;margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" class="align_center"
+    style="border-collapse:collapse;border:solid 0pt #000000;width:263.3pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:263.3pt;min-width:263.3pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:0.8pt;min-height:0.8pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblC"
+    style="orphans:0;widows:0;line-height:1pt;font-size:1pt;"&gt; &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_unitR" style="orphans:0;widows:0;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="text-align:right;margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" class="align_right"
+    style="border-collapse:collapse;border:solid 0pt #000000;width:75.8pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:75.8pt;min-width:75.8pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:18.8pt;min-height:18.8pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblC"
+    style="orphans:0;widows:0;line-height:11pt;"&gt;2023年９月22日&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;padding-left:9pt;"&gt;株式会社アバントグループ&lt;/p&gt;
+    &lt;div class="tbld"
+    style="margin-left:10.0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:solid 0pt
+    #000000;width:72.8pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:72.8pt;min-width:72.8pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:15.8pt;min-height:15.8pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblC"
+    style="orphans:0;widows:0;padding-left:9pt;line-height:11pt;"&gt;取締役会  御中&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_unitR" style="orphans:0;widows:0;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="text-align:right;margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" class="align_right"
+    style="border-collapse:collapse;border:solid 0pt #000000;width:311.4pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:118pt;min-width:118pt;"/&gt;
+    &lt;col style="width:193.4pt;min-width:193.4pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:15pt;min-height:15pt;"&gt;
+    &lt;td style="vertical-align:middle;overflow:hidden;" valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:11pt;font-size:9pt;"&gt;有限責任監査法人トーマツ&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td style="vertical-align:middle;overflow:hidden;" valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;font-size:11pt;"&gt; &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_text1" style="orphans:0;widows:0;line-height:11pt;"&gt; &lt;span
+    style="text-decoration:underline;"&gt; 東 京 事 務 所&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:11pt;font-size:11pt;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="text-align:right;margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" class="align_right"
+    style="border-collapse:collapse;border:solid 0pt #000000;width:297.6pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:75.8pt;min-width:75.8pt;"/&gt;
+    &lt;col style="width:12.5pt;min-width:12.5pt;"/&gt;
+    &lt;col style="width:63pt;min-width:63pt;"/&gt;
+    &lt;col style="width:108pt;min-width:108pt;"/&gt;
+    &lt;col style="width:38.3pt;min-width:38.3pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:25.5pt;min-height:25.5pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;"&gt;指定有限責任社員&lt;br/&gt;業務執行社員&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td style="vertical-align:middle;overflow:hidden;" valign="middle"&gt;&lt;p class="smt_tblC"
+    style="orphans:0;widows:0;"&gt; &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;"&gt;公認会計士&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:11pt;font-size:9pt;"&gt;香    川       順&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;font-size:11pt;"&gt; &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_unitR" style="orphans:0;widows:0;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="text-align:right;margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" class="align_right"
+    style="border-collapse:collapse;border:solid 0pt #000000;width:297.6pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:75.8pt;min-width:75.8pt;"/&gt;
+    &lt;col style="width:12.5pt;min-width:12.5pt;"/&gt;
+    &lt;col style="width:63pt;min-width:63pt;"/&gt;
+    &lt;col style="width:108pt;min-width:108pt;"/&gt;
+    &lt;col style="width:38.3pt;min-width:38.3pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:25.5pt;min-height:25.5pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;"&gt;指定有限責任社員&lt;br/&gt;業務執行社員&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td style="vertical-align:middle;overflow:hidden;" valign="middle"&gt;&lt;p class="smt_tblC"
+    style="orphans:0;widows:0;"&gt; &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;"&gt;公認会計士&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:11pt;font-size:9pt;"&gt;大 山 顕 司&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;line-height:11pt;font-size:11pt;"&gt; &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_text6" style="orphans:0;widows:0;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6" style="orphans:0;widows:0;padding-left:9pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;＜財務諸表監査＞&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;監査意見&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:14.2pt;font-size:9pt;"&gt;当監査法人は、金融商品取引法第193条の２第１項の規定に基づく監査証明を行うため、「経理の状況」に掲げられている株式会社アバントグループの2022年７月１日から2023年６月30日までの連結会計年度の連結財務諸表、すなわち、連結貸借対照表、連結損益計算書、連結包括利益計算書、連結株主資本等変動計算書、連結キャッシュ・フロー計算書、連結財務諸表作成のための基本となる重要な事項、その他の注記及び連結附属明細表について監査を行った。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:14.2pt;font-size:9pt;"&gt;当監査法人は、上記の連結財務諸表が、我が国において一般に公正妥当と認められる企業会計の基準に準拠して、株式会社アバントグループ及び連結子会社の2023年６月30日現在の財政状態並びに同日をもって終了する連結会計年度の経営成績及びキャッシュ・フローの状況を、全ての重要な点において適正に表示しているものと認める。&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text1" style="orphans:0;widows:0;padding-left:9pt;text-indent:0pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;監&lt;/span&gt;&lt;span style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;査意見の根拠&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:14.2pt;font-size:9pt;"&gt;当監査法人は、我が国において一般に公正妥当と認められる監査の基準に準拠して監査を行った。監査の基準における当監査法人の責任は、「連結財務諸表監査における監査人の責任」に記載されている。当監査法人は、我が国における職業倫理に関する規定に従って、会社及び連結子会社から独立しており、また、監査人としてのその他の倫理上の責任を果たしている。当監査法人は、意見表明の基礎となる十分かつ適切な監査証拠を入手したと判断している。&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;監査上の主要な検討事項&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:14.2pt;font-size:9pt;"&gt;監査上の主要な検討事項とは、当連結会計年度の連結財務諸表の監査において、監査人が職業的専門家として特に重要であると判断した事項である。監査上の主要な検討事項は、連結財務諸表全体に対する監査の実施過程及び監査意見の形成において対応した事項であり、当監査法人は、当該事項に対して個別に意見を表明するものではない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:13.5pt;font-size:13.5pt;"&gt; &lt;/p&gt;&lt;p
+    style="page-break-before:always; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:solid 0pt
+    #000000;width:474pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:237pt;min-width:237pt;"/&gt;
+    &lt;col style="width:237pt;min-width:237pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:17.9pt;min-height:17.9pt;"&gt;
+    &lt;td colspan="2"
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;line-height:15pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;受注制作のソフトウェアに係る売上高の適切性&lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style="height:30pt;min-height:30pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;line-height:15pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;監査上の主要な検討事項の&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;内容及び決定理由&lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;line-height:15pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;監査上の対応&lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style="height:147pt;min-height:147pt;"&gt;
+    &lt;td
+    style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="top"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;【注記事項】（収益認識関係）に記載の通り、グループ・ガバナンス事業、デジタルトランスフォーメーション推進事業における一定期間にわたり移転される財又はサービスに係る売上高は18,053,754千円であり、連結損益計算書の&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;売上高の84.3％を占めている。&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当該売上高は、DivaSystem等の導入コンサルティング・サービスやシステム開発サービス等から構成されており、会社はこれらの収益認識基準として、【注記事項】（連結財務諸表作成のための基本となる重要な事項）４．会計方針に関する事項(5)
+    重要な収益及び費用の計上基準に記載の通り、サービス期間がごく短い契約を除き、履行義務の充足に係る進捗度を見積り、当該進捗度に基づき収益を一定の期間にわたり認識する方法を採用している。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;導入コンサルティング・サービスやシステム開発サービス等に係る売上は、成果物が無形であることから、履行義務の充足に係る実態を把握することが相対的に難しく、また取引ごとに顧客の要求・仕様が異なるなど個別性があることから、契約内容や取引内容を適切に把握する必要があり、その判断結果により認識される収益金額が異なる可能性もある。更には、期末時点で進行中の取引については進捗度の見積りに基づき収益が認識されるが、当該見積りは不確実性を伴う。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;以上から、当監査法人は、一定期間にわたり履行義務が充足される導入コンサルティング・サービスやシステム開発サービス等に係る収益認識の適切性が、当連結会計年度の連結財務諸表監査において特に重要であり、「監査上の主要な検討事項」に該当すると判断した。
+    &lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="top"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;text-justify:inter-ideograph;text-indent:10pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;当監査法人は、一定期間にわたり履行義務が充足されるシステム開発サービス等に係る収益認識の適切性を検証するため、主に以下の監査手続を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;(1) 内部統制の評価&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;・取引ごとの注文書、検収書の確認、進捗率の計算、売上計上の承認など、売上高を適切に計上するために構築された内部統制を理解し、その整備及び運用状況を評価した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;(2) 売上高が適切に計上されているかについての検討&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・各月の販売管理システムの売上高と会計システムの売上高の整合性を検討した。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・期末時点で検収が完了している取引を対象に以下の検討を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    過去及び同会計年度に計上された他の取引と比較して高額な取引について、関連資料の閲覧や担当者への質問により取引内容を理解するとともに、注文書、検収書、請求書、入金証憑等の関連証憑との照合を実施した。さらに勤怠管理システムの閲覧により当該取引にかかる原価の発生があることを確かめた。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    上記のほか、無作為に選定した複数の取引について、注文書、検収書、請求書、入金証憑等の関連証憑との照合を実施した。&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;・期末時点で進行中の取引を対象に以下の検討を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    過去及び同会計年度に計上された他の取引と比較して想定粗利率が高い取引及び受注額に対して実績原価が多額の取引について、関連資料の閲覧や担当者への質問により取引内容を理解するとともに、注文書との照合を実施した。また、工数見積り資料との照合、勤怠管理システムの閲覧及び請求書等との照合により当該取引にかかる進捗率が適切に計算されていることを確かめた。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;line-height:15pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ 明朝&amp;apos;;font-size:9pt;"&gt;-
+    上記のほか、無作為に選定した複数の取引について、同様の検討を実施した。 &lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:13pt;font-size:13pt;"&gt; &lt;/p&gt;&lt;p
+    style="page-break-before:always; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;その他の記載内容&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;その他の記載内容は、有価証券報告書に含まれる情報のうち、連結財務諸表及び財務諸表並びにこれらの監査報告書以外の情報である。経営者の責任は、その他の記載内容を作成し開示することにある。また、監査等委員会の責任は、その他の記載内容の報告プロセスの整備及び運用における取締役の職務の執行を監視することにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当監査法人の連結財務諸表に対する監査意見の対象にはその他の記載内容は含まれておらず、当監査法人はその他の記載内容に対して意見を表明するものではない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;連結財務諸表監査における当監査法人の責任は、その他の記載内容を通読し、通読の過程において、その他の記載内容と連結財務諸表又は当監査法人が監査の過程で得た知識との間に重要な相違があるかどうか検討すること、また、そのような重要な相違以外にその他の記載内容に重要な誤りの兆候があるかどうか注意を払うことにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当監査法人は、実施した作業に基づき、その他の記載内容に重要な誤りがあると判断した場合には、その事実を報告することが求められている。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;その他の記載内容に関して、当監査法人が報告すべき事項はない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;連結財務諸表に対する経営者及び監査等委員会の責任&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;経営者の責任は、我が国において一般に公正妥当と認められる企業会計の基準に準拠して連結財務諸表を作成し適正に表示することにある。これには、不正又は誤謬による重要な虚偽表示のない連結財務諸表を作成し適正に表示するために経営者が必要と判断した内部統制を整備及び運用することが含まれる。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;連結財務諸表を作成するに当たり、経営者は、継続企業の前提に基づき連結財務諸表を作成することが適切であるかどうかを評価し、我が国において一般に公正妥当と認められる企業会計の基準に基づいて継続企業に関する事項を開示する必要がある場合には当該事項を開示する責任がある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査等委員会の責任は、財務報告プロセスの整備及び運用における取締役の職務の執行を監視することにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;line-height:13pt;font-size:13pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6" style="orphans:0;widows:0;padding-left:9pt;line-height:15pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;連結財務諸表監査における監査人の責任&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人の責任は、監査人が実施した監査に基づいて、全体としての連結財務諸表に不正又は誤謬による重要な虚偽表示がないかどうかについて合理的な保証を得て、監査報告書において独立の立場から連結財務諸表に対する意見を表明することにある。虚偽表示は、不正又は誤謬により発生する可能性があり、個別に又は集計すると、連結財務諸表の利用者の意思決定に影響を与えると合理的に見込まれる場合に、重要性があると判断される。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、我が国において一般に公正妥当と認められる監査の基準に従って、監査の過程を通じて、職業的専門家としての判断を行い、職業的懐疑心を保持して以下を実施する。&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    不正又は誤謬による重要な虚偽表示リスクを識別し、評価する。また、重要な虚偽表示リスクに対応した監査手続を立案し、実施する。監査手続の選択及び適用は監査人の判断による。さらに、意見表明の基礎となる十分かつ適切な監査証拠を入手する。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    連結財務諸表監査の目的は、内部統制の有効性について意見表明するためのものではないが、監査人は、リスク評価の実施に際して、状況に応じた適切な監査手続を立案するために、監査に関連する内部統制を検討する。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    経営者が採用した会計方針及びその適用方法の適切性、並びに経営者によって行われた会計上の見積りの合理性及び関連する注記事項の妥当性を評価する。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    経営者が継続企業を前提として連結財務諸表を作成することが適切であるかどうか、また、入手した監査証拠に基づき、継続企業の前提に重要な疑義を生じさせるような事象又は状況に関して重要な不確実性が認められるかどうか結論付ける。継続企業の前提に関する重要な不確実性が認められる場合は、監査報告書において連結財務諸表の注記事項に注意を喚起すること、又は重要な不確実性に関する連結財務諸表の注記事項が適切でない場合は、連結財務諸表に対して除外事項付意見を表明することが求められている。監査人の結論は、監査報告書日までに入手した監査証拠に基づいているが、将来の事象や状況により、企業は継続企業として存続できなくなる可能性がある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    連結財務諸表の表示及び注記事項が、我が国において一般に公正妥当と認められる企業会計の基準に準拠しているかどうかとともに、関連する注記事項を含めた連結財務諸表の表示、構成及び内容、並びに連結財務諸表が基礎となる取引や会計事象を適正に表示しているかどうかを評価する。&lt;/p&gt;&lt;p
+    style="page-break-before:always; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    連結財務諸表に対する意見を表明するために、会社及び連結子会社の財務情報に関する十分かつ適切な監査証拠を入手する。監査人は、連結財務諸表の監査に関する指示、監督及び実施に関して責任がある。監査人は、単独で監査意見に対して責任を負う。&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、監査等委員会に対して、計画した監査の範囲とその実施時期、監査の実施過程で識別した内部統制の重要な不備を含む監査上の重要な発見事項、及び監査の基準で求められているその他の事項について報告を行う。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、監査等委員会に対して、独立性についての我が国における職業倫理に関する規定を遵守したこと、並びに監査人の独立性に影響を与えると合理的に考えられる事項、及び阻害要因を除去又は軽減するためにセーフガードを講じている場合はその内容について報告を行う。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、監査等委員会と協議した事項のうち、当連結会計年度の連結財務諸表の監査で特に重要であると判断した事項を監査上の主要な検討事項と決定し、監査報告書において記載する。ただし、法令等により当該事項の公表が禁止されている場合や、極めて限定的ではあるが、監査報告書において報告することにより生じる不利益が公共の利益を上回ると合理的に見込まれるため、監査人が報告すべきでないと判断した場合は、当該事項を記載しない。&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6" style="orphans:0;widows:0;padding-left:9pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;＜内部統制監査＞&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ 明朝&amp;apos;;font-size:9pt;"&gt;監査意見&lt;/span&gt;&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;padding-left:9pt;line-height:15pt;"&gt;当監査法人は、金融商品取引法第193条の２第２項の規定に基づく監査証明を行うため、株式会社アバントグループの2023年６月30日現在の内部統制報告書について監査を行った。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当監査法人は、株式会社アバントグループが2023年６月30日現在の財務報告に係る内部統制は有効であると表示した上記の内部統制報告書が、我が国において一般に公正妥当と認められる財務報告に係る内部統制の評価の基準に準拠して、財務報告に係る内部統制の評価結果について、全ての重要な点において適正に表示しているものと認める。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;&lt;span style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;監査意見の根拠&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当監査法人は、我が国において一般に公正妥当と認められる財務報告に係る内部統制の監査の基準に準拠して内部統制監査を行った。財務報告に係る内部統制の監査の基準における当監査法人の責任は、「内部統制監査における監査人の責任」に記載されている。当監査法人は、我が国における職業倫理に関する規定に従って、会社及び連結子会社から独立しており、また、監査人としてのその他の倫理上の責任を果たしている。当監査法人は、意見表明の基礎となる十分かつ適切な監査証拠を入手したと判断している。&lt;/p&gt;&lt;p
+    class="smt_text6" style="orphans:0;widows:0;"&gt; &lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;内部統制報告書に対する経営者並びに監査等委員会の責任&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;経営者の責任は、財務報告に係る内部統制を整備及び運用し、我が国において一般に公正妥当と認められる財務報告に係る内部統制の評価の基準に準拠して内部統制報告書を作成し適正に表示することにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査等委員会の責任は、財務報告に係る内部統制の整備及び運用状況を監視、検証することにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;なお、財務報告に係る内部統制により財務報告の虚偽の記載を完全には防止又は発見することができない可能性がある。&lt;/p&gt;&lt;p
+    class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p
+    style="page-break-before:always; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;padding-left:9pt;"&gt;&lt;span style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;内部統制監査における監査人の責任&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人の責任は、監査人が実施した内部統制監査に基づいて、内部統制報告書に重要な虚偽表示がないかどうかについて合理的な保証を得て、内部統制監査報告書において独立の立場から内部統制報告書に対する意見を表明することにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、我が国において一般に公正妥当と認められる財務報告に係る内部統制の監査の基準に従って、監査の過程を通じて、職業的専門家としての判断を行い、職業的懐疑心を保持して以下を実施する。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    内部統制報告書における財務報告に係る内部統制の評価結果について監査証拠を入手するための監査手続を実施する。内部統制監査の監査手続は、監査人の判断により、財務報告の信頼性に及ぼす影響の重要性に基づいて選択及び適用される。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    財務報告に係る内部統制の評価範囲、評価手続及び評価結果について経営者が行った記載を含め、全体としての内部統制報告書の表示を検討する。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:-9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・
+    内部統制報告書における財務報告に係る内部統制の評価結果に関する十分かつ適切な監査証拠を入手する。監査人は、内部統制報告書の監査に関する指示、監督及び実施に関して責任がある。監査人は、単独で監査意見に対して責任を負う。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、監査等委員会に対して、計画した内部統制監査の範囲とその実施時期、内部統制監査の実施結果、識別した内部統制の開示すべき重要な不備、その是正結果、及び内部統制の監査の基準で求められているその他の事項について報告を行う。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;監査人は、監査等委員会に対して、独立性についての我が国における職業倫理に関する規定を遵守したこと、並びに監査人の独立性に影響を与えると合理的に考えられる事項、及び阻害要因を除去又は軽減するためにセーフガードを講じている場合はその内容について報告を行う。&lt;/p&gt;&lt;p
+    class="smt_text6" style="orphans:0;widows:0;padding-left:9pt;"&gt; &lt;/p&gt;&lt;p
+    class="smt_text6" style="orphans:0;widows:0;padding-left:9pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ 明朝&amp;apos;;font-size:9pt;"&gt;利害関係&lt;/span&gt;&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;会社及び連結子会社と当監査法人又は業務執行社員との間には、公認会計士法の規定により記載すべき利害関係はない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:right;padding-right:9pt;"&gt;以  上&lt;/p&gt;&lt;p
+    class="smt_unitR" style="orphans:0;widows:0;line-height:6pt;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:solid 0pt
+    #000000;width:483pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:483pt;min-width:483pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:38.3pt;min-height:38.3pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;line-height:2pt;font-size:2pt;"&gt; &lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:left;padding-left:157.5pt;padding-right:0pt;text-justify:inter-ideograph;text-indent:-148.5pt;line-height:12pt;"&gt;(注)
+    １．上記の監査報告書の原本は当社（有価証券報告書提出会社）が別途保管しております。&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:31.6pt;padding-right:0pt;line-height:12pt;"&gt;２．XBRLデータは監査の対象には含まれていません。&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;</jpcrp_cor:IndependentAuditorsReportConsolidatedTextBlock>
+  <jpcrp_cor:AuditFirm1Consolidated contextRef="FilingDateInstant">有限責任監査法人トーマツ</jpcrp_cor:AuditFirm1Consolidated>
+  <jpcrp_cor:CPA1AuditFirm1Consolidated contextRef="FilingDateInstant">香    川       順</jpcrp_cor:CPA1AuditFirm1Consolidated>
+  <jpcrp_cor:CPA2AuditFirm1Consolidated contextRef="FilingDateInstant">大 山 顕 司</jpcrp_cor:CPA2AuditFirm1Consolidated>
+  <jpcrp_cor:KeyAuditMattersConsolidatedTextBlock contextRef="FilingDateInstant">&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;監査上の主要な検討事項&lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:14.2pt;font-size:9pt;"&gt;監査上の主要な検討事項とは、当連結会計年度の連結財務諸表の監査において、監査人が職業的専門家として特に重要であると判断した事項である。監査上の主要な検討事項は、連結財務諸表全体に対する監査の実施過程及び監査意見の形成において対応した事項であり、当監査法人は、当該事項に対して個別に意見を表明するものではない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:13.5pt;font-size:13.5pt;"&gt; &lt;/p&gt;&lt;p
+    style="page-break-before:always; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;div class="tbld"
+    style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+    &lt;table cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:solid 0pt
+    #000000;width:474pt;table-layout:fixed;"&gt;
+    &lt;colgroup&gt;
+    &lt;col style="width:237pt;min-width:237pt;"/&gt;
+    &lt;col style="width:237pt;min-width:237pt;"/&gt;
+    &lt;/colgroup&gt;
+    &lt;tr style="height:17.9pt;min-height:17.9pt;"&gt;
+    &lt;td colspan="2"
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;line-height:15pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;受注制作のソフトウェアに係る売上高の適切性&lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style="height:30pt;min-height:30pt;"&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;line-height:15pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;監査上の主要な検討事項の&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;内容及び決定理由&lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="middle"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:center;line-height:15pt;"&gt;&lt;span
+    style="font-size:9pt;"&gt;監査上の対応&lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style="height:147pt;min-height:147pt;"&gt;
+    &lt;td
+    style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="top"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;【注記事項】（収益認識関係）に記載の通り、グループ・ガバナンス事業、デジタルトランスフォーメーション推進事業における一定期間にわたり移転される財又はサービスに係る売上高は18,053,754千円であり、連結損益計算書の&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;売上高の84.3％を占めている。&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当該売上高は、DivaSystem等の導入コンサルティング・サービスやシステム開発サービス等から構成されており、会社はこれらの収益認識基準として、【注記事項】（連結財務諸表作成のための基本となる重要な事項）４．会計方針に関する事項(5)
+    重要な収益及び費用の計上基準に記載の通り、サービス期間がごく短い契約を除き、履行義務の充足に係る進捗度を見積り、当該進捗度に基づき収益を一定の期間にわたり認識する方法を採用している。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;導入コンサルティング・サービスやシステム開発サービス等に係る売上は、成果物が無形であることから、履行義務の充足に係る実態を把握することが相対的に難しく、また取引ごとに顧客の要求・仕様が異なるなど個別性があることから、契約内容や取引内容を適切に把握する必要があり、その判断結果により認識される収益金額が異なる可能性もある。更には、期末時点で進行中の取引については進捗度の見積りに基づき収益が認識されるが、当該見積りは不確実性を伴う。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;以上から、当監査法人は、一定期間にわたり履行義務が充足される導入コンサルティング・サービスやシステム開発サービス等に係る収益認識の適切性が、当連結会計年度の連結財務諸表監査において特に重要であり、「監査上の主要な検討事項」に該当すると判断した。
+    &lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td
+    style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;overflow:hidden;"
+    valign="top"&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;text-justify:inter-ideograph;text-indent:10pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;当監査法人は、一定期間にわたり履行義務が充足されるシステム開発サービス等に係る収益認識の適切性を検証するため、主に以下の監査手続を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;(1) 内部統制の評価&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;・取引ごとの注文書、検収書の確認、進捗率の計算、売上計上の承認など、売上高を適切に計上するために構築された内部統制を理解し、その整備及び運用状況を評価した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;(2) 売上高が適切に計上されているかについての検討&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・各月の販売管理システムの売上高と会計システムの売上高の整合性を検討した。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・期末時点で検収が完了している取引を対象に以下の検討を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    過去及び同会計年度に計上された他の取引と比較して高額な取引について、関連資料の閲覧や担当者への質問により取引内容を理解するとともに、注文書、検収書、請求書、入金証憑等の関連証憑との照合を実施した。さらに勤怠管理システムの閲覧により当該取引にかかる原価の発生があることを確かめた。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    上記のほか、無作為に選定した複数の取引について、注文書、検収書、請求書、入金証憑等の関連証憑との照合を実施した。&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;・期末時点で進行中の取引を対象に以下の検討を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    過去及び同会計年度に計上された他の取引と比較して想定粗利率が高い取引及び受注額に対して実績原価が多額の取引について、関連資料の閲覧や担当者への質問により取引内容を理解するとともに、注文書との照合を実施した。また、工数見積り資料との照合、勤怠管理システムの閲覧及び請求書等との照合により当該取引にかかる進捗率が適切に計算されていることを確かめた。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;line-height:15pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ 明朝&amp;apos;;font-size:9pt;"&gt;-
+    上記のほか、無作為に選定した複数の取引について、同様の検討を実施した。 &lt;/span&gt;&lt;/p&gt;
+    &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;&lt;p style="clear:both; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;
+    &lt;/div&gt;&lt;p class="smt_text1"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:13pt;font-size:13pt;"&gt; &lt;/p&gt;</jpcrp_cor:KeyAuditMattersConsolidatedTextBlock>
+  <jpcrp_cor:OverviewKAMConsolidatedTextBlock contextRef="FilingDateInstant">&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:14.2pt;font-size:9pt;"&gt;監査上の主要な検討事項とは、当連結会計年度の連結財務諸表の監査において、監査人が職業的専門家として特に重要であると判断した事項である。監査上の主要な検討事項は、連結財務諸表全体に対する監査の実施過程及び監査意見の形成において対応した事項であり、当監査法人は、当該事項に対して個別に意見を表明するものではない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:13.5pt;font-size:13.5pt;"&gt; &lt;/p&gt;</jpcrp_cor:OverviewKAMConsolidatedTextBlock>
+  <jpcrp_cor:ShortDescriptionKAMConsolidated contextRef="FilingDateInstant_Row1Member">
+    受注制作のソフトウェアに係る売上高の適切性</jpcrp_cor:ShortDescriptionKAMConsolidated>
+  <jpcrp_cor:DescriptionIncludingReasonKAMConsolidatedTextBlock
+    contextRef="FilingDateInstant_Row1Member">&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;【注記事項】（収益認識関係）に記載の通り、グループ・ガバナンス事業、デジタルトランスフォーメーション推進事業における一定期間にわたり移転される財又はサービスに係る売上高は18,053,754千円であり、連結損益計算書の&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;売上高の84.3％を占めている。&lt;/span&gt;&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当該売上高は、DivaSystem等の導入コンサルティング・サービスやシステム開発サービス等から構成されており、会社はこれらの収益認識基準として、【注記事項】（連結財務諸表作成のための基本となる重要な事項）４．会計方針に関する事項(5)
+    重要な収益及び費用の計上基準に記載の通り、サービス期間がごく短い契約を除き、履行義務の充足に係る進捗度を見積り、当該進捗度に基づき収益を一定の期間にわたり認識する方法を採用している。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;導入コンサルティング・サービスやシステム開発サービス等に係る売上は、成果物が無形であることから、履行義務の充足に係る実態を把握することが相対的に難しく、また取引ごとに顧客の要求・仕様が異なるなど個別性があることから、契約内容や取引内容を適切に把握する必要があり、その判断結果により認識される収益金額が異なる可能性もある。更には、期末時点で進行中の取引については進捗度の見積りに基づき収益が認識されるが、当該見積りは不確実性を伴う。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;font-size:9pt;"&gt;以上から、当監査法人は、一定期間にわたり履行義務が充足される導入コンサルティング・サービスやシステム開発サービス等に係る収益認識の適切性が、当連結会計年度の連結財務諸表監査において特に重要であり、「監査上の主要な検討事項」に該当すると判断した。
+    &lt;/span&gt;&lt;/p&gt;</jpcrp_cor:DescriptionIncludingReasonKAMConsolidatedTextBlock>
+  <jpcrp_cor:ReferenceKAMConsolidated contextRef="FilingDateInstant_Row1Member">【注記事項】（収益認識関係）</jpcrp_cor:ReferenceKAMConsolidated>
+  <jpcrp_cor:Reference3KAMConsolidated contextRef="FilingDateInstant_Row1Member">【注記事項】（連結財務諸表作成のための基本となる重要な事項）４．会計方針に関する事項(5)
+    重要な収益及び費用の計上基準</jpcrp_cor:Reference3KAMConsolidated>
+  <jpcrp_cor:AuditorsResponseKAMConsolidatedTextBlock contextRef="FilingDateInstant_Row1Member">&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;text-justify:inter-ideograph;text-indent:10pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;当監査法人は、一定期間にわたり履行義務が充足されるシステム開発サービス等に係る収益認識の適切性を検証するため、主に以下の監査手続を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;(1) 内部統制の評価&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;・取引ごとの注文書、検収書の確認、進捗率の計算、売上計上の承認など、売上高を適切に計上するために構築された内部統制を理解し、その整備及び運用状況を評価した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;(2) 売上高が適切に計上されているかについての検討&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・各月の販売管理システムの売上高と会計システムの売上高の整合性を検討した。&lt;/p&gt;&lt;p
+    class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;・期末時点で検収が完了している取引を対象に以下の検討を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    過去及び同会計年度に計上された他の取引と比較して高額な取引について、関連資料の閲覧や担当者への質問により取引内容を理解するとともに、注文書、検収書、請求書、入金証憑等の関連証憑との照合を実施した。さらに勤怠管理システムの閲覧により当該取引にかかる原価の発生があることを確かめた。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    上記のほか、無作為に選定した複数の取引について、注文書、検収書、請求書、入金証憑等の関連証憑との照合を実施した。&lt;/p&gt;&lt;p class="smt_tblL"
+    style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;・期末時点で進行中の取引を対象に以下の検討を実施した。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;text-align:justify;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;-
+    過去及び同会計年度に計上された他の取引と比較して想定粗利率が高い取引及び受注額に対して実績原価が多額の取引について、関連資料の閲覧や担当者への質問により取引内容を理解するとともに、注文書との照合を実施した。また、工数見積り資料との照合、勤怠管理システムの閲覧及び請求書等との照合により当該取引にかかる進捗率が適切に計算されていることを確かめた。&lt;/p&gt;&lt;p
+    class="smt_tblL" style="orphans:0;widows:0;line-height:15pt;"&gt;&lt;span
+    style="font-family:&amp;apos;ＭＳ 明朝&amp;apos;;font-size:9pt;"&gt;-
+    上記のほか、無作為に選定した複数の取引について、同様の検討を実施した。 &lt;/span&gt;&lt;/p&gt;</jpcrp_cor:AuditorsResponseKAMConsolidatedTextBlock>
+  <jpcrp_cor:OtherInformationConsolidatedTextBlock contextRef="FilingDateInstant">&lt;p
+    style="page-break-before:always; line-height:0.75pt; width:100%;
+    font-size:0.75pt;"&gt; &lt;/p&gt;&lt;p class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;その他の記載内容&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;line-height:15pt;font-size:9pt;"&gt;その他の記載内容は、有価証券報告書に含まれる情報のうち、連結財務諸表及び財務諸表並びにこれらの監査報告書以外の情報である。経営者の責任は、その他の記載内容を作成し開示することにある。また、監査等委員会の責任は、その他の記載内容の報告プロセスの整備及び運用における取締役の職務の執行を監視することにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当監査法人の連結財務諸表に対する監査意見の対象にはその他の記載内容は含まれておらず、当監査法人はその他の記載内容に対して意見を表明するものではない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;連結財務諸表監査における当監査法人の責任は、その他の記載内容を通読し、通読の過程において、その他の記載内容と連結財務諸表又は当監査法人が監査の過程で得た知識との間に重要な相違があるかどうか検討すること、また、そのような重要な相違以外にその他の記載内容に重要な誤りの兆候があるかどうか注意を払うことにある。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;当監査法人は、実施した作業に基づき、その他の記載内容に重要な誤りがあると判断した場合には、その事実を報告することが求められている。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;その他の記載内容に関して、当監査法人が報告すべき事項はない。&lt;/p&gt;&lt;p
+    class="smt_text6"
+    style="orphans:0;widows:0;text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ
+    明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;</jpcrp_cor:OtherInformationConsolidatedTextBlock>
+</xbrli:xbrl>
