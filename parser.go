@@ -16,7 +16,7 @@ type XBRLData struct {
 	Xsi      string   `xml:"xsi,attr"`
 
 	SchemaRef SchemaRef `xml:"schemaRef"`
-	Context   Context   `xml:"context"`
+	Contexts  []Context `xml:"context"`
 }
 
 type SchemaRef struct {
@@ -25,20 +25,21 @@ type SchemaRef struct {
 }
 
 type Context struct {
-	Entity Entity `xml:"entity"`
-	Period Period `xml:"period"`
+	Entity   Entity   `xml:"entity"`
+	Period   Period   `xml:"period"`
+	Scenario Scenario `xml:"scenario"`
 }
 
 type Entity struct {
-	Identifier Identifier `xml:"identifier"`
-}
-
-type Identifier struct {
-	Scheme string `xml:"scheme,attr"`
+	Identifier string `xml:"identifier"`
 }
 
 type Period struct {
-	// TODO : make it
+	Instant string `xml:"instant"`
+}
+
+type Scenario struct {
+	ExplicitMember string `xml:"explicitMember"`
 }
 
 func ReadXBRL(filePath string) (*XBRLData, error) {

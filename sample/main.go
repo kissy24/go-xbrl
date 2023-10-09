@@ -26,5 +26,10 @@ func main() {
 	fmt.Println("SchemaRef HRef:", xbrlData.SchemaRef.HRef)
 	fmt.Println("SchemaRef Type:", xbrlData.SchemaRef.Type)
 
-	fmt.Println("Context Identifier:", xbrlData.Context.Entity.Identifier.Scheme)
+	for _, context := range xbrlData.Contexts {
+		fmt.Println("Context Identifier:", context.Entity.Identifier)
+		fmt.Println("Context Instant:", context.Period.Instant)
+		fmt.Println("Context ExplicitMember:", context.Scenario.ExplicitMember)
+	}
+
 }
