@@ -2,8 +2,10 @@ package goxbrl
 
 import (
 	"encoding/xml"
+	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 )
 
 type XBRLData struct {
@@ -56,6 +58,10 @@ type Scenario struct {
 }
 
 func ReadXBRL(filePath string) (*XBRLData, error) {
+	if filepath.Ext(filePath) != "xbrl" {
+		return nil, fmt.Errorf("Error: %s", "The extension is not xbrl.")
+	}
+
 	xbrlData := &XBRLData{}
 
 	file, err := os.Open(filePath)
