@@ -32,4 +32,6 @@ func main() {
 		fmt.Println("Context ExplicitMember:", context.Scenario.ExplicitMember)
 	}
 
+	fmt.Println("IndependentAuditorsReportConsolidatedTextBlock:", xbrlData.IndependentAuditorsReportConsolidatedTextBlock)
+
 }

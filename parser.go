@@ -17,6 +17,19 @@ type XBRLData struct {
 
 	SchemaRef SchemaRef `xml:"schemaRef"`
 	Contexts  []Context `xml:"context"`
+
+	IndependentAuditorsReportConsolidatedTextBlock     string `xml:"IndependentAuditorsReportConsolidatedTextBlock"`
+	AuditFirm1Consolidated                             string `xml:"AuditFirm1Consolidated"`
+	CPA1AuditFirm1Consolidated                         string `xml:"CPA1AuditFirm1Consolidated"`
+	CPA2AuditFirm1Consolidated                         string `xml:"CPA2AuditFirm1Consolidated"`
+	KeyAuditMattersConsolidatedTextBlock               string `xml:"KeyAuditMattersConsolidatedTextBlock"`
+	OverviewKAMConsolidatedTextBlock                   string `xml:"OverviewKAMConsolidatedTextBlock"`
+	ShortDescriptionKAMConsolidated                    string `xml:"ShortDescriptionKAMConsolidated"`
+	DescriptionIncludingReasonKAMConsolidatedTextBlock string `xml:"DescriptionIncludingReasonKAMConsolidatedTextBlock"`
+	ReferenceKAMConsolidated                           string `xml:"ReferenceKAMConsolidated"`
+	Reference3KAMConsolidated                          string `xml:"Reference3KAMConsolidated"`
+	AuditorsResponseKAMConsolidatedTextBlock           string `xml:"AuditorsResponseKAMConsolidatedTextBlock"`
+	OtherInformationConsolidatedTextBlock              string `xml:"OtherInformationConsolidatedTextBlock"`
 }
 
 type SchemaRef struct {
@@ -43,23 +56,19 @@ type Scenario struct {
 }
 
 func ReadXBRL(filePath string) (*XBRLData, error) {
-	// XBRLデータの構造体を初期化
 	xbrlData := &XBRLData{}
 
-	// XBRLファイルを開く
 	file, err := os.Open(filePath)
 	if err != nil {
 		return nil, err
 	}
 	defer file.Close()
 
-	// ファイルの内容を読み込む
 	data, err := io.ReadAll(file)
 	if err != nil {
 		return nil, err
 	}
 
-	// XMLデコード
 	if err := xml.Unmarshal(data, xbrlData); err != nil {
 		return nil, err
 	}
